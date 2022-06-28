@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\bin\Debug\net5.0\ConsoleDeneme.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\bin\Debug\net5.0\ConsoleDeneme.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\bin\Debug\net5.0\ConsoleDeneme.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\bin\Debug\net5.0\ConsoleDeneme.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\bin\Debug\net5.0\ConsoleDeneme.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\bin\Debug\net5.0\ConsoleDeneme.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\refint\ConsoleDeneme.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ConsoleDeneme.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\ConsoleDeneme\obj\Debug\net5.0\ref\ConsoleDeneme.dll
