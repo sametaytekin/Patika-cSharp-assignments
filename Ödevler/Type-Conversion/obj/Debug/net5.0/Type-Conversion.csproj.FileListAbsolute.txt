@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\bin\Debug\net5.0\Type-Conversion.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\bin\Debug\net5.0\Type-Conversion.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\bin\Debug\net5.0\Type-Conversion.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\bin\Debug\net5.0\Type-Conversion.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\bin\Debug\net5.0\Type-Conversion.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\bin\Debug\net5.0\Type-Conversion.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\refint\Type-Conversion.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\Type-Conversion.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Type-Conversion\obj\Debug\net5.0\ref\Type-Conversion.dll
