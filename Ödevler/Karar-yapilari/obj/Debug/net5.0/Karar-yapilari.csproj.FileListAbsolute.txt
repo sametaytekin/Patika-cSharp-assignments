@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\bin\Debug\net5.0\Karar-yapilari.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\bin\Debug\net5.0\Karar-yapilari.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\bin\Debug\net5.0\Karar-yapilari.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\bin\Debug\net5.0\Karar-yapilari.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\bin\Debug\net5.0\Karar-yapilari.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\bin\Debug\net5.0\Karar-yapilari.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\refint\Karar-yapilari.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\Karar-yapilari.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Karar-yapilari\obj\Debug\net5.0\ref\Karar-yapilari.dll
