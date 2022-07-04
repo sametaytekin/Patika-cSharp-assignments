@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\bin\Debug\net5.0\Error_and_exceptions.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\bin\Debug\net5.0\Error_and_exceptions.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\bin\Debug\net5.0\Error_and_exceptions.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\bin\Debug\net5.0\Error_and_exceptions.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\bin\Debug\net5.0\Error_and_exceptions.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\bin\Debug\net5.0\Error_and_exceptions.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\refint\Error_and_exceptions.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\Error_and_exceptions.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Error_and_exceptions\obj\Debug\net5.0\ref\Error_and_exceptions.dll
