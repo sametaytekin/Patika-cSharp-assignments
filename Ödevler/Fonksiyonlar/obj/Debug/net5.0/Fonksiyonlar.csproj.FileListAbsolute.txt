@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\bin\Debug\net5.0\Fonksiyonlar.exe
+c:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\bin\Debug\net5.0\Fonksiyonlar.deps.json
+c:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\bin\Debug\net5.0\Fonksiyonlar.runtimeconfig.json
+c:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\bin\Debug\net5.0\Fonksiyonlar.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\bin\Debug\net5.0\Fonksiyonlar.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\bin\Debug\net5.0\Fonksiyonlar.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\refint\Fonksiyonlar.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.pdb
+c:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\Fonksiyonlar.genruntimeconfig.cache
+c:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Fonksiyonlar\obj\Debug\net5.0\ref\Fonksiyonlar.dll
