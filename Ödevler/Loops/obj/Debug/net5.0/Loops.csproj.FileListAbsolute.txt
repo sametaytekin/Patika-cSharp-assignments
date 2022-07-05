@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\refint\Loops.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Loops\obj\Debug\net5.0\ref\Loops.dll
