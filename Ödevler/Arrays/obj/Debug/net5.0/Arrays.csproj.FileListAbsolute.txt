@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\refint\Arrays.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Arrays\obj\Debug\net5.0\ref\Arrays.dll
