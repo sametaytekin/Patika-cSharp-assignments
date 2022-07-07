@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\bin\Debug\net5.0\Extension-Recursive.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\bin\Debug\net5.0\Extension-Recursive.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\bin\Debug\net5.0\Extension-Recursive.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\bin\Debug\net5.0\Extension-Recursive.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\bin\Debug\net5.0\Extension-Recursive.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\bin\Debug\net5.0\Extension-Recursive.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\refint\Extension-Recursive.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\Extension-Recursive.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Extension-Recursive\obj\Debug\net5.0\ref\Extension-Recursive.dll
