@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\bin\Debug\net5.0\Cumle.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\bin\Debug\net5.0\Cumle.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\bin\Debug\net5.0\Cumle.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\bin\Debug\net5.0\Cumle.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\bin\Debug\net5.0\Cumle.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\bin\Debug\net5.0\Cumle.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\refint\Cumle.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\Cumle.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Cumle\obj\Debug\net5.0\ref\Cumle.dll
