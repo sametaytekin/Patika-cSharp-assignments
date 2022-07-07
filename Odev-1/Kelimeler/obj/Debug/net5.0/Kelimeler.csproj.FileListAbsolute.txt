@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\bin\Debug\net5.0\Kelimeler.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\bin\Debug\net5.0\Kelimeler.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\bin\Debug\net5.0\Kelimeler.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\bin\Debug\net5.0\Kelimeler.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\bin\Debug\net5.0\Kelimeler.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\bin\Debug\net5.0\Kelimeler.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\refint\Kelimeler.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\Kelimeler.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\Kelimeler\obj\Debug\net5.0\ref\Kelimeler.dll
