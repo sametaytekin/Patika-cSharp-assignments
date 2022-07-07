@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\bin\Debug\net5.0\Strings.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\bin\Debug\net5.0\Strings.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\bin\Debug\net5.0\Strings.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\bin\Debug\net5.0\Strings.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\refint\Strings.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Strings\obj\Debug\net5.0\ref\Strings.dll
