@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\bin\Debug\net5.0\Method-Overload.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\bin\Debug\net5.0\Method-Overload.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\bin\Debug\net5.0\Method-Overload.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\bin\Debug\net5.0\Method-Overload.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\bin\Debug\net5.0\Method-Overload.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\bin\Debug\net5.0\Method-Overload.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\refint\Method-Overload.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\Method-Overload.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\Method-Overload\obj\Debug\net5.0\ref\Method-Overload.dll
