@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\bin\Debug\net5.0\CiftOlanlar.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\bin\Debug\net5.0\CiftOlanlar.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\bin\Debug\net5.0\CiftOlanlar.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\bin\Debug\net5.0\CiftOlanlar.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\bin\Debug\net5.0\CiftOlanlar.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\bin\Debug\net5.0\CiftOlanlar.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\refint\CiftOlanlar.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\CiftOlanlar.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Odev-1\CiftOlanlar\obj\Debug\net5.0\ref\CiftOlanlar.dll
