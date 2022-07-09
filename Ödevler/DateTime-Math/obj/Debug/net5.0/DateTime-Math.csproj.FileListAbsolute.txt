@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\bin\Debug\net5.0\DateTime-Math.exe
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\bin\Debug\net5.0\DateTime-Math.deps.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\bin\Debug\net5.0\DateTime-Math.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\bin\Debug\net5.0\DateTime-Math.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\bin\Debug\net5.0\DateTime-Math.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\bin\Debug\net5.0\DateTime-Math.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\refint\DateTime-Math.dll
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.pdb
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\DateTime-Math.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Dotnet\Ödevler\DateTime-Math\obj\Debug\net5.0\ref\DateTime-Math.dll
