@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Strings\\Strings.csproj",
+      "projectUniqueName": "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Strings\\Strings.csproj",
+      "projectPath": "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Strings\\Strings.csproj",
       "packagesPath": "C:\\Users\\aytek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Strings\\obj\\",
+      "outputPath": "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

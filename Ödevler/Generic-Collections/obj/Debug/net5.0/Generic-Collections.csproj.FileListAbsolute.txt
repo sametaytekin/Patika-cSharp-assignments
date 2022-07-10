@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\bin\Debug\net5.0\Generic-Collections.exe
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\bin\Debug\net5.0\Generic-Collections.deps.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\bin\Debug\net5.0\Generic-Collections.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\bin\Debug\net5.0\Generic-Collections.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\bin\Debug\net5.0\Generic-Collections.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\bin\Debug\net5.0\Generic-Collections.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\refint\Generic-Collections.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\Generic-Collections.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Generic-Collections\obj\Debug\net5.0\ref\Generic-Collections.dll
