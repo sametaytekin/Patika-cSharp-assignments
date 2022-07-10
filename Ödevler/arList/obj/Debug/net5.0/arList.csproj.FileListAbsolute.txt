@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\bin\Debug\net5.0\arList.exe
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\bin\Debug\net5.0\arList.deps.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\bin\Debug\net5.0\arList.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\bin\Debug\net5.0\arList.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\bin\Debug\net5.0\arList.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\bin\Debug\net5.0\arList.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\refint\arList.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\arList.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\arList\obj\Debug\net5.0\ref\arList.dll
