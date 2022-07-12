@@ -14,8 +14,6 @@ namespace Koleksiyonlar_Soru_1
             ArrayList notPrime = new ArrayList();
             Console.WriteLine("20 adet sayı giriniz");
             for(int i=0;i<20;i++){
-
-
                 try
                 {
                     
