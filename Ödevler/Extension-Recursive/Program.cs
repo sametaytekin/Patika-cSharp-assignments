@@ -6,7 +6,7 @@ namespace Extension_Recursive
     {
         static void Main(string[] args)
         {
-            int sonuc=0,sayi;
+            double sayi=0,sonuc=0;
             Console.WriteLine("Bir sayi giriniz: ");
             try
             {
@@ -37,7 +37,7 @@ namespace Extension_Recursive
         }
 
         /****Recursive method*****/
-        public static int factorial(int n){
+        public static double factorial(double n){
             if(n==0){
                 return 0;
             }else if (n==1){
@@ -53,11 +53,15 @@ namespace Extension_Recursive
     }
 
     public static class ExtensionClass{
-        public static bool isPrime(this int n){
-            for(int i=1;i<n/2;i++){
-                if(n%i == 0){
-                    return false;
-                }
+        public static bool isPrime(this double n){
+            if(n<=1){
+                return false;
+            }
+
+            for(int i=2;i<Math.Sqrt(n);i++){
+                if(n%i == 0)
+                  return false;
+                
             }
             return true;
         }

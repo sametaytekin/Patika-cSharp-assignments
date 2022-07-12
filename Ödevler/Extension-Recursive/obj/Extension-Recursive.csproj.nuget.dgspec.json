@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj": {}
+    "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj": {
+    "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj",
+        "projectUniqueName": "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj",
         "projectName": "Extension-Recursive",
-        "projectPath": "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj",
+        "projectPath": "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Extension-Recursive\\Extension-Recursive.csproj",
         "packagesPath": "C:\\Users\\aytek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aytek\\Documents\\VSCode\\Dotnet\\Ödevler\\Extension-Recursive\\obj\\",
+        "outputPath": "C:\\Users\\aytek\\Documents\\VSCode\\Patika-cSharp-assignments\\Ödevler\\Extension-Recursive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
