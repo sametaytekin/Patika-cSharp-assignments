@@ -10,7 +10,6 @@ namespace Koleksiyonlar_Soru_2
         static void Main(string[] args)
         {
             int temp=0;
-            int toplamKucukler=0,toplamBuyukler=0;
             List<int> sayilar=new List<int>();
             List<int> kucukler=new List<int>();
             List<int> buyukler = new List<int>();
