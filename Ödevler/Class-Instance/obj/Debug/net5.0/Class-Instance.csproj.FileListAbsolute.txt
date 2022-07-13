@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\bin\Debug\net5.0\Class-Instance.exe
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\bin\Debug\net5.0\Class-Instance.deps.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\bin\Debug\net5.0\Class-Instance.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\bin\Debug\net5.0\Class-Instance.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\bin\Debug\net5.0\Class-Instance.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\bin\Debug\net5.0\Class-Instance.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\refint\Class-Instance.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\Class-Instance.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Class-Instance\obj\Debug\net5.0\ref\Class-Instance.dll
