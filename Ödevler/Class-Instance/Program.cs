@@ -33,6 +33,10 @@ namespace Class_Instance
 
             Console.WriteLine("kisi2 Bilgileri");
             kisi2.BilgileriYazdir();
+
+            Personel kisi3 = new Personel("Selim","Bakır",28,"Bursa");
+            kisi3.BilgileriYazdir();
+
         }
     }
 
@@ -41,6 +45,17 @@ namespace Class_Instance
         string soyIsim;
         int yas;
         string sehir;
+
+        public Personel(){
+
+        }
+
+        public Personel(string isim,string soyIsim,int yas,string sehir){
+            this.Isim=isim;
+            this.SoyIsim=soyIsim;
+            this.Yas=yas;
+            this.Sehir=sehir;
+        }
 
         public string Isim { get => isim; set => isim = value; }
         public string SoyIsim { get => soyIsim; set => soyIsim = value; }
