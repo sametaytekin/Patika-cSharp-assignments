@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\bin\Debug\net5.0\Enum-Struct.exe
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\bin\Debug\net5.0\Enum-Struct.deps.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\bin\Debug\net5.0\Enum-Struct.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\bin\Debug\net5.0\Enum-Struct.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\bin\Debug\net5.0\Enum-Struct.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\bin\Debug\net5.0\Enum-Struct.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\refint\Enum-Struct.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\Enum-Struct.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Enum-Struct\obj\Debug\net5.0\ref\Enum-Struct.dll
