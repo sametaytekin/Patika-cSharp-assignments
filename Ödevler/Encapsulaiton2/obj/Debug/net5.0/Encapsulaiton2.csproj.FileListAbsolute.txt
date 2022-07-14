@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\bin\Debug\net5.0\Encapsulaiton2.exe
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\bin\Debug\net5.0\Encapsulaiton2.deps.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\bin\Debug\net5.0\Encapsulaiton2.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\bin\Debug\net5.0\Encapsulaiton2.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\bin\Debug\net5.0\Encapsulaiton2.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\bin\Debug\net5.0\Encapsulaiton2.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\refint\Encapsulaiton2.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\Encapsulaiton2.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\Ödevler\Encapsulaiton2\obj\Debug\net5.0\ref\Encapsulaiton2.dll
