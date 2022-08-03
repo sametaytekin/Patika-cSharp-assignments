@@ -1,0 +1,16 @@
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\bin\Debug\net5.0\To-Do-List.exe
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\bin\Debug\net5.0\To-Do-List.deps.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\bin\Debug\net5.0\To-Do-List.runtimeconfig.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\bin\Debug\net5.0\To-Do-List.runtimeconfig.dev.json
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\bin\Debug\net5.0\To-Do-List.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\bin\Debug\net5.0\To-Do-List.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.AssemblyInfo.cs
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\refint\To-Do-List.dll
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.pdb
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\To-Do-List.genruntimeconfig.cache
+C:\Users\aytek\Documents\VSCode\Patika-cSharp-assignments\To-Do-List\obj\Debug\net5.0\ref\To-Do-List.dll
